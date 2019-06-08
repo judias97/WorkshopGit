@@ -1,20 +1,13 @@
-# Boas vindas ao Workshop de Git ✨
-
-## Instruções para começar
-
-Abra [a página de instruções](/INSTRUCTIONS.md) que contém o passo a passo para esse workshop, você voltará a este arquivo no passo 4 das instruções.
-
-Se você já está no passo 4, sinta-se a vontade para editar este arquivo, crie uma página pessoal em markdown, conte um pouco sobre você, quais suas expectativas para o hackathon, que habilidades você tem ou qualquer coisa que queira compartilhar com o mundo.
-
-Também delete esta sessão de instruções e modifique a primeira linha trocando "Boas vindas ao Workshop de Git" pelo seu nome por exemplo.
+# Júlia Dias ✨
 
 ## Sobre
-
-Aqui você pode contar coisas que queira compartilhar sobre você, você pode dar destaque usando **negrito** ou *itálico*, listas sempre são úteis nesse momento:
-
-- Curso / Faculdade
-- Áreas de interesse
-- Hobbies
+Um pouquinho sobre mim =D.
+### Curso e faculdade
+- Engenharia Eletrônica - Ufpe
+### Areas de interesse
+- Eletrônica, Robótica, embarcados, frontend, IA
+### Hobbies
+- Ginastica ritmica, Harry Potter, Disney
 
 ## Projetos
 
